@@ -4,3 +4,5 @@
 .env.development.local
 .env.test.localp
 .env.production.local
+venv
+__pycache__
